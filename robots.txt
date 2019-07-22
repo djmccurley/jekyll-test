@@ -1,1 +1,1 @@
-Sitemap: https://djmccurley.github.io/jekyll-test/sitemap.xml
+Sitemap: https://djmccurley.github.io/sitemap.xml
